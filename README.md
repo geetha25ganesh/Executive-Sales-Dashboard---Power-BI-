@@ -23,7 +23,7 @@ Designed and deployed an end-to-end interactive dashboard translating business r
 ![Sales Overview](Sheet1_SalesOverview.png)
 
 ### Sheet 2: Product Analysis
-![Product Analysis] (Sheet2.Product.png)
+![Product Analysis] (Sheet2_Product.png)
 
 ### Sheet 3: Customer & Salesperson Performance
 ![Customer & Salesperson Performance](Sheet3_Customer.png)
