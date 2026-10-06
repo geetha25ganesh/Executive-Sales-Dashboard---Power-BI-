@@ -17,6 +17,16 @@ Designed and deployed an end-to-end interactive dashboard translating business r
 * `Executive_Sales_Dashboard.pbix` — Complete interactive Power BI file
 * `Sales_Data.xlsx` — Source dataset
 
-## 📊 Dashboard Preview
+## 📊 Dashboard Views
 
-![Executive Sales Overview](Sheet1_SalesOverview.png)
+### Sheet 1: Sales Overview
+![Sales Overview](Sheet1_SalesOverview.png)
+
+### Sheet 2: Product Analysis
+![Product Analysis] (Sheet2.Product.png)
+
+### Sheet 3: Customer & Salesperson Performance
+![Customer & Salesperson Performance](Sheet3_Customer.png)
+
+### Sheet 4: Transactional Analysis
+![Transactional Analysis](Sheet4_Transaction.png)
