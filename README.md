@@ -16,3 +16,7 @@ Designed and deployed an end-to-end interactive dashboard translating business r
 ## 📁 Repository Contents
 * `Executive_Sales_Dashboard.pbix` — Complete interactive Power BI file
 * `Sales_Data.xlsx` — Source dataset
+
+## 📊 Dashboard Preview
+
+![Executive Sales Overview](Sheet1_SalesOverview.png)
